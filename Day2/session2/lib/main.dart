@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
                         title: Text("+91 83000000091", style: TextStyle(
                           fontSize: 25,
                           color: Colors.tealAccent[100],
-                          fontFamily: "Ran",
+                          fontFamily: "med",
                           letterSpacing: 1.5,
                           fontWeight: FontWeight.bold,
 
